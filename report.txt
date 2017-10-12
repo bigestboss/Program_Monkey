@@ -1,0 +1,28 @@
+                      precision    recall  f1-score   support
+
+            HTC-1-M7       0.10      1.00      0.18      2500
+           iPhone-4s       0.00      0.00      0.00      2500
+            iPhone-6       0.00      0.00      0.00      2500
+         LG-Nexus-5x       0.00      0.00      0.00      2500
+ Motorola-Droid-Maxx       0.00      0.00      0.00      2500
+    Motorola-Nexus-6       0.00      0.00      0.00      2500
+          Motorola-X       0.00      0.00      0.00      2500
+Samsung-Galaxy-Note3       0.00      0.00      0.00      2500
+   Samsung-Galaxy-S4       0.00      0.00      0.00      2500
+          Sony-NEX-7       0.00      0.00      0.00      2500
+
+         avg / total       0.01      0.10      0.02     25000
+                      precision    recall  f1-score   support
+
+            HTC-1-M7       0.00      0.00      0.00      2500
+           iPhone-4s       0.00      0.00      0.00      2500
+            iPhone-6       0.00      0.00      0.00      2500
+         LG-Nexus-5x       0.00      0.00      0.00      2500
+ Motorola-Droid-Maxx       0.00      0.00      0.00      2500
+    Motorola-Nexus-6       0.00      0.00      0.00      2500
+          Motorola-X       0.00      0.00      0.00      2500
+Samsung-Galaxy-Note3       0.00      0.00      0.00      2500
+   Samsung-Galaxy-S4       0.10      1.00      0.18      2500
+          Sony-NEX-7       0.00      0.00      0.00      2500
+
+         avg / total       0.01      0.10      0.02     25000
